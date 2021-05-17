@@ -1,4 +1,3 @@
-# Way-to-success 
 <p class="first">Way to success</p>
 <div id="mainArea">
     <img src="wts.1.jpg" alt="Trulli" width="600" height="333">
