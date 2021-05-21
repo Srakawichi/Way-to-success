@@ -26,7 +26,7 @@
 
     <div class="box10">
 
-        <img src="IMG-0135.jpg" alt="Trulli" width="300" height="333">
+        <img src="man to success.png" alt="Trulli" width="300" height="333">
         <p class="lead">CEO: Drahtkarte Inc.</p>
 
         <ol>
