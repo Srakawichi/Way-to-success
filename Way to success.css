@@ -53,9 +53,9 @@ p.lead{
     background: #e4fcff;/*背景色*/
     border-top: solid 6px #1dc1d6;
     box-shadow: 0 3px 4px rgba(121, 97, 97, 0.32);/*影*/
-    width: 1000px;
+    width: 1200px;
     padding: 10px;
-    
+    text-align: center;
     margin: 35px auto;
     
     
