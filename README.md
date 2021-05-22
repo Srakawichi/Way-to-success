@@ -54,7 +54,7 @@
     </div>
        
     <div class="warning">
-        <p>Warning: This page is just for fun, don't take it seriously</p>
+        <p class="second">Warning: This page is just for fun, don't take it seriously</p>
     </div>
 
 
