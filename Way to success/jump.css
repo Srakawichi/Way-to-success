@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(148, 140, 140);
+    font-size: 20px;
+    font-family: Meiryo;     
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+    position:relative;    
+    top:500px;left:800px;
+
+    }
+
+
+p {color: rgb(10, 10, 10); 
+    font-family: fantasy;
+    font-weight: 100;
+    font-size: 50px;
+    text-align: center;
+}
+
+.box10 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #343b3b;
+    background: #e4fcff;/*背景色*/
+    border-top: solid 6px #1dc1d6;
+    box-shadow: 0 3px 4px rgba(121, 97, 97, 0.32);/*影*/
+    width: 1200px;
+    padding: 10px;
+    
+    margin: 35px auto;
+    
+}
+
+p.one{
+    font-size: medium;
+    font-family: Batang;
+
+}
+
+
+
+p.three{
+    position:relative;
+    top:-80px;right:520px;
+
+}
+
+a.money{
+    top:200px;left:800px;
+    font-size: 90px;
+}
