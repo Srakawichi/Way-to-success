@@ -1,14 +1,20 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>way to success</title>
     <link rel="stylesheet" href="Way to success.css">
     <link rel="stylesheet" href="wtsmobile.css">
 </head>
 <body>
     
+    <a class="link" href="jump1.html">pay out digital</a>
+    <a class="link2" href="jump2.html">Linkelson 2</a>
+    <a class="link3" href="jump3.html">Linkelson 3</a>
+
     <p class="first">Way to success</p>
     <div id="mainArea">
         <img src="wts.1.jpg" alt="Trulli" width="600" height="333">
@@ -29,7 +35,6 @@
         <img src="man to success.png" alt="Trulli" width="300" height="333">
         <p class="lead">CEO: Drahtkarte Inc.</p>
 
-        <ol>
             <li>-We want you to get rich</li>
             <li>-Lots of friendly people in the internet want to teach YOU!</li>
             <li>-Start with your Forex seminars</li>
@@ -41,9 +46,10 @@
                 how to think walthy and how to think successfull. You need to change your 
                 mindset to wealth, money, income.
             </lu>
-        </ol>
+        
     </div>
 
+    
     <div class="links">
         <p class="seminarlinks">SEMINARLINKS</p>
         <ol>
